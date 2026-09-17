@@ -169,13 +169,13 @@ Recommended:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/TrishaBarua308/CodeAlpha_Login_-_Registration-system.git
+git clone https://github.com/TrishaBarua308/Login_Registration-system.git
 ```
 
 Then enter the project directory:
 
 ```bash
-cd CodeAlpha_Login_-_Registration-system
+cd Login_Registration-system
 ```
 
 ---
@@ -215,7 +215,7 @@ app.exe
 ## 📁 Project Structure
 
 ```text
-CodeAlpha_Login_-_Registration-system/
+Login_Registration-system/
 │
 ├── task2.cpp
 ├── user.txt
@@ -272,7 +272,6 @@ The main objective of this project is to build a simple authentication system wh
 **Trisha Barua**
 
 * GitHub: [@TrishaBarua308](https://github.com/TrishaBarua308)
-* Internship: **CodeAlpha C++ Programming Internship**
 * Project: **Login & Registration System**
 
 ---
